@@ -30,7 +30,7 @@ For any type of help on deploy. Contact me here INDUS CHATS.
 
 # JOIN FOR MORE 
 
-[!👑FREE PREMIUM ACCOUNTS👑](https://t.me/qwertspremiumaccount).
+[👑FREE PREMIUM ACCOUNTS👑](https://t.me/joinchat/AAAAAE3qMorW0ecO0L4TdQ).
 
 
 ##
