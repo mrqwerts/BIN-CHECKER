@@ -35,6 +35,5 @@ For any type of help on deploy. Contact me here [INDUS CHATS](https://t.me/indus
 
 ##
 
-**DO GIVE A STAR TO MY PROJECT TO SHOW YOUR SUPPORT!!**
 
-REPO COPIED FROM BENCHAMNXD
+REPO KANGED FROM [BENCHAMNXD](https://github.com/Benchamxd/Bin-Checker)
