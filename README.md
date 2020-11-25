@@ -2,14 +2,33 @@
 
 A simple php telegram bot to check if the bin is valid or not
 
-# HOW TO DEPLOY THE BOT??
+# DEPLOY THE BOT
 
-FORK THE REPO FROM HERE
+YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-ADD YOU BOT TOKEN IN LINE 12
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrqwerts/BIN-CHECKER/tree/main)
 
-THEN DEPLOY YOUR REPO BY https://heroku.com/deploy?template=<ur git link>
+AFTER DEPLOY DO SET WEBHOOK BY ''api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku site link>/bot.php''
 
-AFTER DEPLOY SET WEBHOOK BY api.telegram.org/bot<ur bot token>/setwebhook?url=<ur heroku link>/bot.php
+# Configarations
 
-AFTER THIS REMOVE YOUR BOT TOKEN FROM THE REPO FOR YOUR SAFTEY
+BOT_TOKEN : YOUR BOT TOKEN FROM @BOTFATHER
+
+START_MESSAGE : A START MESSAGE FOR YOUR BOT
+
+# COMMANDS
+
+/start - To stat the bin
+
+/bin xxxxx - To Check the bin
+
+HELP ME
+
+For any type of help on deploy. Contact us on [FREE PREMIUM ACCOUNTS](https://t.me/qwertspremiumaccount).
+
+
+##
+
+**DO GIVE A STAR TO MY PROJECT TO SHOW YOUR SUPPORT!!**
+
+REPO COPIED FROM BENCHAMNXD
