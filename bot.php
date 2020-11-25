@@ -1,7 +1,9 @@
 <?php
 /*
-BY:- @Mrhacker223
-CHANNEL:- @Qwertspremiumaccount
+KANGED REPO🔐
+THIS REPO IS FULLY KANGED FROM https://github.com/Benchamxd/Bin-Checker.
+
+WHOLE CREDIT TO @BENCHAMXD
 */
 error_reporting(0);
 
@@ -87,6 +89,8 @@ bot('sendmessage', [
 }
 }
 /*
-BY:- @Mrhacker223
-CHANNEL:- @Qwertspremiumaccount
+KANGED REPO🔐
+THIS REPO IS FULLY KANGED FROM https://github.com/Benchamxd/Bin-Checker.
+
+WHOLE CREDIT TO @BENCHAMXD
 */
