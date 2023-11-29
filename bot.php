@@ -8,7 +8,7 @@ error_reporting(0);
 set_time_limit(0);
 
 flush();
-$API_KEY = 'Your bot token'; //Your token
+$API_KEY = '6841034007:AAEsGdvMyyMpY-5hl3t1eX46q868DDJRgDg'; //Your token
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
